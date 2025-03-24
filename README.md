@@ -45,31 +45,19 @@ This project focuses on predicting customer churn in a banking environment using
 ![Geography Distribution](images/Geography_Distribution.png)
 
 ### 📉 Numeric Histograms  
-![Numeric Histograms](images/numeric_histograms.png)
+![Numeric Histograms](images/Histogram_for_Numeric_Features.png)
 
 ### 📦 Boxplot – Outliers  
-![Boxplot](images/boxplot.png)
+![Boxplot](images/Boxplot_for_Numeric_Features.png)
 
 ### 📈 Confusion Matrix  
 ![Confusion Matrix](images/confusion_matrix.png)
 
 ### 🌟 Feature Importance  
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](images/Feature_Importance.png)
 
 
 ![Churn Distribution](images/Churn Distribution (Exited Customer).png)
-
-#### 🔹 Gender Distribution  
-![Gender Distribution](images/Gender Distribution.png)
-
-#### 🔹 Geography Distribution  
-![Geography Distribution](images/Geography Distribution.png)
-
-#### 🔹 Histograms of Numeric Features  
-![Histograms](images/Histogram for Numeric Features.png)
-
-#### 🔹 Outlier Detection (Boxplot)  
-![Boxplot](images/Boxplot for Numeric  Features.png)
 
 ---
 
@@ -84,7 +72,7 @@ This project focuses on predicting customer churn in a banking environment using
   - `Male_Germany`, `Male_Spain`
 - StandardScaler applied to numeric features
 
-![Feature Engineered] (images/Engineered Features.png)
+![Feature Engineered](images/Engineered_Features.png)
 ---
 
 ## 🤖 Models Trained
@@ -112,8 +100,8 @@ This project focuses on predicting customer churn in a banking environment using
 ## 🔍 Feature Importance
 
 Feature importance was evaluated using the Random Forest model.
-![RandomForest Model] (images/Random Forest Classifier.png)
-![Feature Importance](images/Feature Importance.png)
+![RandomForest Model](images/Random_Forest_Classifier.png) 
+![Feature Importance](images/Feature_Importance.png)
 
 Top predictors:
 - Age  
