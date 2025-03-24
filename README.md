@@ -50,10 +50,6 @@ This project focuses on predicting customer churn in a banking environment using
 ### 📦 Boxplot – Outliers  
 ![Boxplot](images/Boxplot_for_Numeric_Features.png)
 
-### 📈 Confusion Matrix  
-![Confusion Matrix](images/confusion_matrix.png)
-
-
 ---
 
 ## 🛠 Feature Engineering & Preprocessing
