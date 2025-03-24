@@ -35,9 +35,8 @@ This project focuses on predicting customer churn in a banking environment using
 
 ### 📊 Visuals:
 
-#### 🔹 Churn Distribution  
 ### 📊 Churn Distribution  
-![Churn Distribution](images/churn_distribution.png)
+![Churn Distribution](images/Churn_Distribution _(Exited_Customer).png)
 
 ### 🧍 Gender Distribution  
 ![Gender Distribution](images/gender_distribution.png)
