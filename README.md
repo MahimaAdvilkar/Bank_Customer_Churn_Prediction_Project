@@ -36,8 +36,27 @@ This project focuses on predicting customer churn in a banking environment using
 ### 📊 Visuals:
 
 #### 🔹 Churn Distribution  
-![Churn Distribution](Customer-Churn-Prediction
-/images/churn_distribution.png)
+### 📊 Churn Distribution  
+![Churn Distribution](images/churn_distribution.png)
+
+### 🧍 Gender Distribution  
+![Gender Distribution](images/gender_distribution.png)
+
+### 🌍 Geography Distribution  
+![Geography Distribution](images/geography_distribution.png)
+
+### 📉 Numeric Histograms  
+![Numeric Histograms](images/numeric_histograms.png)
+
+### 📦 Boxplot – Outliers  
+![Boxplot](images/boxplot.png)
+
+### 📈 Confusion Matrix  
+![Confusion Matrix](images/confusion_matrix.png)
+
+### 🌟 Feature Importance  
+![Feature Importance](images/feature_importance.png)
+
 
 ![Churn Distribution](images/Churn Distribution (Exited Customer).png)
 
