@@ -39,7 +39,7 @@ This project focuses on predicting customer churn in a banking environment using
 ![Churn Distribution](images/Churn_Distribution _(Exited_Customer).png)
 
 ### 🧍 Gender Distribution  
-![Gender Distribution](images/gender_distribution.png)
+![Gender Distribution](images/Gender_Distribution.png)
 
 ### 🌍 Geography Distribution  
 ![Geography Distribution](images/geography_distribution.png)
