@@ -53,11 +53,6 @@ This project focuses on predicting customer churn in a banking environment using
 ### 📈 Confusion Matrix  
 ![Confusion Matrix](images/confusion_matrix.png)
 
-### 🌟 Feature Importance  
-![Feature Importance](images/Feature_Importance.png)
-
-
-![Churn Distribution](images/Churn Distribution (Exited Customer).png)
 
 ---
 
