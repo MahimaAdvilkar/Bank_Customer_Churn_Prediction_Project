@@ -1,4 +1,4 @@
-# 🧠 # 🧠 Bank Customer Churn Prediction Using Machine Learning
+# 🧠 Bank Customer Churn Prediction Using Machine Learning
 
 **Prepared by:** Mahima Advilkar  
 **Role:** Data Analyst  
