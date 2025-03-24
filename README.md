@@ -83,8 +83,8 @@ This project focuses on predicting customer churn in a banking environment using
 - F1-Score
 - Confusion Matrix
 
-#### 🔹 Confusion Matrix  
-![Confusion Matrix]
+### 📦 Models Trained
+![Models](images/Model_Comparision.png)
 
 ---
 
