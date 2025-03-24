@@ -91,7 +91,6 @@ This project focuses on predicting customer churn in a banking environment using
 ## 🔍 Feature Importance
 
 Feature importance was evaluated using the Random Forest model.
-![RandomForest Model](images/Random_Forest_Classifier.png) 
 ![Feature Importance](images/Feature_Importance.png)
 
 Top predictors:
